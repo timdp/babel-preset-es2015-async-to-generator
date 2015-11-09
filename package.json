@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-async-to-generator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Babel preset for ES2015 + async-to-generator.",
   "author": "Tim De Pauw <hi@tmdpw.eu> (https://tmdpw.eu/)",
   "license": "MIT",
